@@ -56,8 +56,9 @@ SO THAT my company can compete with other e-commerce companies
 
     - #5: WHEN I test API POST, PUT, and DELETE routes in Insomnia
          THEN I am able to successfully create, update, and delete data in my database
+
 <hr />
 
 ## My E-Commerce Back End walkthrough video
 
-[DK Project E-Commerce Back End](TBD)
+[DK Project E-Commerce Back End](https://drive.google.com/file/d/1q5cAlL0PSioU45XNP3vt3ruddqBzUTz0/view)
